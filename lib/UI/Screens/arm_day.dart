@@ -158,7 +158,7 @@ class _ArmDayState extends State<ArmDay> {
               controller2: a10,
               onDone: () => getdata(),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 18),
             Exercise(
               w: w6,
               r: r6,
